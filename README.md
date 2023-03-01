@@ -22,4 +22,4 @@ For analysis we have the following data columns:
 - idle_men : The number of workers who were idle due to production interruption
 - actual_productivity : The actual % of productivity that was delivered by the workers. It ranges from 0-1. 
 
-The procedure is described in the attached notebook [garments_worker_productivity.csv](/garments_worker_productivity.csv).
+The procedure is described in the attached notebook [tree_models_productivity.ipynb](/tree_models_productivity.ipynb).
