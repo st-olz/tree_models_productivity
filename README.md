@@ -23,3 +23,6 @@ For analysis we have the following data columns:
 - actual_productivity : The actual % of productivity that was delivered by the workers. It ranges from 0-1. 
 
 The procedure is described in the attached notebook [tree_models_productivity.ipynb](/tree_models_productivity.ipynb).
+
+![grafik](https://user-images.githubusercontent.com/121058227/222921885-4381eea9-4aa2-44e5-adc6-278b813699e8.png)
+
